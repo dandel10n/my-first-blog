@@ -44,6 +44,10 @@ h2, h3, h4 {
     width: 100%;
 }
 
+#logout {
+    color:#9DCCCC;
+}
+
 .top-menu, .top-menu:hover, .top-menu:visited {
     color: #ffffff;
     float: right;
@@ -55,6 +59,6 @@ h2, h3, h4 {
     margin-bottom: 70px;
 }
 
-.bottoms {
-    float: right;
+.comment {
+    margin: 20px 0px 20px 20px;
 }
